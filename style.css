@@ -135,7 +135,7 @@ p{
 
 .navbar-nav{
     /* background-color: var(--white-color) !important; */
-    padding: 10px 0;
+    /* padding: 10px 0; */
 }
 
 
@@ -205,6 +205,18 @@ p{
     /* background-color: d; */
 }
 
+.navigation-wrap {
+    left: 0;
+    top: 0;
+    right: 0;
+    position: absolute;   
+    /* z-index: 1030;    */
+    
+}
+
+
+
+
  
 
   .top-banner img{
@@ -213,7 +225,7 @@ p{
     background-size: cover;
     background-position: center;
     border-bottom-left-radius:3rem;
-    margin-top: -70px;
+   
   }
 
 
