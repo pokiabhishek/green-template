@@ -1,0 +1,14 @@
+@media (max-width:992px) {
+
+    .collapse .nav-item{
+        display: block;
+    }
+   
+
+}   
+
+@media only screen and (max-width:991px) {
+    .navbar-collapse{
+        background: white;
+    }
+}
